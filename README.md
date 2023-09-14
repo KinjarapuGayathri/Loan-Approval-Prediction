@@ -1,6 +1,6 @@
 # Loan-Approval-Prediction
 
-## This model predicts the probability of a loan application to be approveed by automating the loan eligibility process based on customer detail provided while filling online application form.
+## This model predicts the probability of a loan application to be approved by automating the loan eligibility process based on customer detail provided while filling online application form.
 
 #### Features of the Dataset :
 
